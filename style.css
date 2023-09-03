@@ -1,0 +1,69 @@
+.banners
+{
+    width: 30%;
+    float: right;
+    padding: 0px;
+    margin: 0px;
+}
+.banners2
+{
+    width: 30%;
+    float: left;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 30px;
+}
+#font2
+{
+    font-size: 15px;
+    font-family:  sans-serif;
+    font-weight: 520;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(208, 215, 221);
+}
+#font3
+{
+    font-size: 40px;
+    font-family:  sans-serif;
+    font-weight: 900;
+    padding: 0px;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+.backg
+{
+    background-color: #4018b2;
+}
+.paddingg
+{
+    padding-left: 60px;
+}
+
+.float-container 
+{
+    padding-left: 20px;
+}
+
+.float-child 
+{
+    width: 10%;
+    float: left;
+    padding: 20px;
+}  
+.float-child2 
+{
+
+    width: 80%;
+    float: left;
+    padding: 40px;
+    font-family: 'Poppins', sans-serif;
+}  
+.font
+{
+    color: aliceblue;
+    padding-right: 10px;
+    float: right;
+    text-decoration: none;
+}
